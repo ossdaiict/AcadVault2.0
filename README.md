@@ -17,6 +17,8 @@ AcadVault2.0 offers a host of features designed to enhance your academic journey
 Discord Community: Join our vibrant community on [Discord](https://discord.gg/mbAJsEnXgr) to engage in discussions, seek assistance, and stay updated on the latest developments.
 
 ## Contributors
+ 
+Thanks to everyone who has helped shape AcadVault2.0 . This project is better because of you.
 
 [![Contributors](https://contrib.rocks/image?repo=AcadVault/AcadVault2.0)](https://github.com/AcadVault/AcadVault2.0/graphs/contributors)
 
